@@ -120,4 +120,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = '/flipdotvsvirus/static'
+STATIC_ROOT = '/opt/flipdotvsvirus/static'
