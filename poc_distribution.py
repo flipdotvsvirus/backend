@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Takes a string copied from excel online and calculates how much everyone must pay"""
 import numpy as np
 
